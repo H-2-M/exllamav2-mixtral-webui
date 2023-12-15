@@ -17,7 +17,8 @@ scipy
 sentencepiece
 tqdm
 wandb
-
+tensorboard
+transformers==4.36.*
 git+https://github.com/oobabooga/torch-grammar.git
 
 # bitsandbytes
